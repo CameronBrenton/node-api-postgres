@@ -4,7 +4,7 @@
   "description": "RESTful API with Node.js, Express, and PostgreSQL",
   "main": "index.js",
   "scripts": {
-    "npm": "index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
